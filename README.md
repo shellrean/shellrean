@@ -31,6 +31,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=Go&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-Language-089e00?style=flat-square&logo=C&logoColor=white" />
+  <img alt="NET" src="https://img.shields.io/badge/-.NET-00aaff?style=flat-square&logo=.net&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
