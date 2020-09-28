@@ -79,5 +79,8 @@
 ------------
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shellrean&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=shellrean&show_icons=true&theme=radical"">
+</p>
+<p>
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shellrean&layout=compact&theme=radical" />
 </p>
