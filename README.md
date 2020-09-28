@@ -9,6 +9,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ebe834?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-00a6ff?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-0077ff?style=flat-square&logo=Flutter&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/-React-0077ff?style=flat-square&logo=React&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F05032?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-DD0031?style=flat-square&logo=Codeigniter&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4a9bf7?style=flat-square&logo=python&logoColor=white" />
@@ -25,9 +26,11 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-Yarn-1a73e8?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-00cefc?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-	<img alt="Nodejs" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=Go&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=Go&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-Language-089e00?style=flat-square&logo=C&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
