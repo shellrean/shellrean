@@ -33,11 +33,6 @@
   <img alt="C" src="https://img.shields.io/badge/-Language-089e00?style=flat-square&logo=C&logoColor=white" />
   <img alt="NET" src="https://img.shields.io/badge/-.NET-00aaff?style=flat-square&logo=.net&logoColor=white" />
 </p>
-------------
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shellrean&show_icons=true&theme=radical"">
-</p>
 <p>
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shellrean&layout=compact&theme=radical" />
 </p>
