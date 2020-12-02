@@ -33,49 +33,6 @@
   <img alt="C" src="https://img.shields.io/badge/-Language-089e00?style=flat-square&logo=C&logoColor=white" />
   <img alt="NET" src="https://img.shields.io/badge/-.NET-00aaff?style=flat-square&logo=.net&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/shellrean/vlamsrv"><b>VlamSrv</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/shellrean/vlamsrv?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/shellrean/vlamsrv?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/shellrean/vlamsrv?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shellrean/vlamsrv?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-		  <td><a href="https://github.com/shellrean/crapor"><b>Raport k13</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/shellrean/crapor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/shellrean/crapor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/shellrean/crapor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shellrean/crapor?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-		<tr>
-			<td><a href="https://github.com/shellrean/monitor"><b>Teacher Monitoring</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/shellrean/monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/shellrean/monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/shellrean/monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shellrean/monitor?style=flat-square&labelColor=343b41"/></td>
-    </tr>	<tr>
-			<td><a href="https://github.com/shellrean/centra-cbt"><b>Centra CBT Restful</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/shellrean/centra-cbt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/shellrean/centra-cbt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/shellrean/centra-cbt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shellrean/centra-cbt?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-
 ------------
 
 <p>
