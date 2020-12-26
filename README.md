@@ -8,5 +8,5 @@ I'm shellrean, **Fullstack developer** :computer:.
 | Go  |Django   |MongoDB   |   |
 | Python  | VueJS  |   |   |
 
-[Dev.to](https://dev.to/shellrean)\
-[Medium](https://medium.com/@shellrean)
+:pencil2: [Dev.to](https://dev.to/shellrean)\
+:pencil2: [Medium](https://medium.com/@shellrean)
