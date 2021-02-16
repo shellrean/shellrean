@@ -5,7 +5,7 @@ I'm shellrean, **Fullstack developer** :computer:.
 |---|---|---|---|
 | PHP  |Codeigniter   |  MySQL | NodeJS  |
 | JavaScript  |Laravel   |  PostgreSQL |Flutter   |
-| Go  |Django   |MongoDB   |   |
+| Go  |Django   |MongoDB   |  Tailwindcss |
 | Python  | VueJS  |   |   |
 
 :pencil2: [Dev.to](https://dev.to/shellrean)
