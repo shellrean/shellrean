@@ -7,5 +7,7 @@ I'm shellrean, **Fullstack developer** :computer:.
 | JavaScript  |Laravel   |  PostgreSQL |Flutter   |
 | Go  |Django   |MongoDB   |  Tailwindcss |
 | Python  | VueJS  |   |   |
+| | Symfony | | |
 
-:pencil2: [Dev.to](https://dev.to/shellrean)
+:pencil2: [dev.to](https://dev.to/shellrean)
+:pencil2: [intelektualpeople.id](https://intelektualpeople.id/blog/author/shellrean)
