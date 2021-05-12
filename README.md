@@ -8,6 +8,7 @@ I'm shellrean, **Fullstack developer** :computer:.
 | Go  |Django   |MongoDB   |  Tailwindcss |
 | Python  | VueJS  |   |   |
 | | Symfony | | |
+| | Lumen | | |
 | | Angular | | |
 
 :pencil2: [dev.to](https://dev.to/shellrean)
