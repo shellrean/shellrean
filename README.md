@@ -12,4 +12,4 @@ I'm shellrean, **Fullstack developer** :computer:.
 | | Angular | | |
 
 :pencil2: [dev.to](https://dev.to/shellrean)
-:pencil2: [intelektualpeople.id](https://intelektualpeople.id/blog/author/shellrean)
+:pencil2: [intelektualpeople.id](https://intelektualpeople.id/author/shellrean/)
