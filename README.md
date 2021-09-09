@@ -6,10 +6,11 @@ I'm shellrean, **Fullstack developer** :computer:.
 | PHP  |Codeigniter   |  MySQL | NodeJS  |
 | JavaScript  |Laravel   |  PostgreSQL |Flutter   |
 | Go  |Django   |MongoDB   |  Tailwindcss |
-| Python  | VueJS  |   |   |
-| | Symfony | | |
+| Python  | VueJS  |   | Bootstrap |
+| Java | Symfony | | |
 | | Lumen | | |
 | | Angular | | |
+| | Spring | | |
 
 :pencil2: [dev.to](https://dev.to/shellrean)
 :pencil2: [intelektualpeople.id](https://intelektualpeople.id/author/shellrean/)
