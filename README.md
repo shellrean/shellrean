@@ -12,5 +12,7 @@ I'm shellrean, **Fullstack developer** :computer:.
 | | Angular | | |
 | | Spring | | |
 
-:pencil2: [dev.to](https://dev.to/shellrean)
-:pencil2: [intelektualpeople.id](https://intelektualpeople.id/author/shellrean/)
+- [My profile](https://shellrean.id)
+- [dev.to](https://dev.to/shellrean)
+- [intelektualpeople.id](https://intelektualpeople.id/author/shellrean/)
+- [Youtube channel](https://www.youtube.com/channel/UCyl1KUVo1qc6saahQx4NCqg)
