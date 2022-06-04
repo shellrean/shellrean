@@ -11,6 +11,7 @@ I'm shellrean, **Fullstack developer** :computer:.
 | | Lumen | | |
 | | Angular | | |
 | | Spring | | |
+| | ASP .NET Core | | |
 
 - [My profile](https://shellrean.id)
 - [dev.to](https://dev.to/shellrean)
