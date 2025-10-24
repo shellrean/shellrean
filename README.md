@@ -8,10 +8,7 @@ I'm shellrean, **Fullstack developer** :computer:.
 | Go  |Django   |MongoDB   |  Tailwindcss |
 | Python  | VueJS  |   | Bootstrap |
 | Java | Symfony | | |
-| | Lumen | | |
-| | Angular | | |
-| | Spring | | |
-| | ASP .NET Core | | |
+|Rust | Spring | | |
 
 - [My profile](https://shellrean.id)
 - [dev.to](https://dev.to/shellrean)
