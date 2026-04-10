@@ -3,11 +3,11 @@ I'm shellrean, **Fullstack developer** :computer:.
 ### Things I code with
 |:green_book: Lang| :ledger: Framework  | :orange_book: DBMS|:blue_book: Other |
 |---|---|---|---|
-| PHP  |Codeigniter   |  MySQL | NodeJS  |
+| PHP  |Fast Api   |  MySQL | NodeJS  |
 | JavaScript  |Laravel   |  PostgreSQL |Flutter   |
-| Go  |Django   |MongoDB   |  Tailwindcss |
-| Python  | VueJS  |   | Bootstrap |
-| Java | Symfony | | |
+| Go  |GoFiber   |MongoDB   |  Tailwindcss |
+| Python  | VueJS  | Qdrant  |  |
+| Java | Axum | | |
 |Rust | Spring | | |
 
 - [My profile](https://shellrean.id)
